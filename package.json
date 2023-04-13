@@ -1,0 +1,15 @@
+{
+  "name": "card-game",
+  "version": "1.0.0",
+  "description": "Multi Player Card Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruv Bajoria",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "shuffle-array": "^1.0.1"
+  }
+}
